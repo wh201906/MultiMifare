@@ -19,7 +19,7 @@ U 1 1 60894F4B
 P 5200 1450
 F 0 "AE1" H 5430 1464 50  0000 L CNN
 F 1 "Antenna_Loop" H 5430 1373 50  0000 L CNN
-F 2 "MultiMifare:Mifare_Antenna" H 5200 1450 50  0001 C CNN
+F 2 "MultiMifare:ant_50_60_2400" H 5200 1450 50  0001 C CNN
 F 3 "~" H 5200 1450 50  0001 C CNN
 	1    5200 1450
 	-1   0    0    -1  
